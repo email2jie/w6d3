@@ -1,0 +1,7 @@
+.towers ul li{
+  display: inline-block;
+}
+
+.highlighted {
+  background-color: yellow;
+}

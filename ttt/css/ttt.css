@@ -1,0 +1,31 @@
+.ttt ul{
+  width: 100%;
+  list-style-type: none;
+}
+
+.ttt li {
+  width: 33%;
+  height: 150px;
+  float: left;
+  border: 5px solid black;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 50px;
+  background-color: #AAA;
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.ttt li:hover {
+  background-color: yellow;
+}
+
+.ttt {
+  width: 50%;
+  margin: auto;
+}
+
+.clicked {
+  background-color: white;
+
+}
